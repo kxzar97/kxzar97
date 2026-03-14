@@ -1,5 +1,5 @@
-## Hi there 👋
-- I am a 19 year old student from Kolkata, West Bengal, India. I am currently pursuing a B.tech degree in Computer Science with specialization in AI and ML from SRMIST, KTR.
+## Hello there.
+CSE undergraduate at SRMIST // Specializing in AI&ML // Exploring Cybersecurity// Open to Internships, Projects & Research Collaboration.
 
 
 
